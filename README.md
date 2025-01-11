@@ -5,7 +5,7 @@
 
 ## Architecture
 The architecture of the project is as follows:
-![Architecture diagramming]([https://github.com/kingnguyen123/uber-etl-pipeline-data-engineering-project/blob/main/Architecture.png](https://github.com/kingnguyen123/Realtime-Algorithmic-Trading/blob/main/x.jpeg))
+![Architecture diagramming](https://github.com/kingnguyen123/Realtime-Algorithmic-Trading/blob/main/Blank%20diagram.png)
 
 ## Technology Used
 
