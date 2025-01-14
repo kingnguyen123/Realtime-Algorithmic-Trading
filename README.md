@@ -5,7 +5,7 @@
 
 ## Architecture
 The architecture of the project is as follows:
-![Architecture diagramming]([https://github.com/kingnguyen123/Realtime-Algorithmic-Trading/blob/main/Blank%20diagram.png](https://github.com/kingnguyen123/Realtime-Algorithmic-Trading/blob/main/Blank%20diagram%20(1).pdf))
+![Architecture diagramming](https://github.com/kingnguyen123/Realtime-Algorithmic-Trading/blob/main/x.png)
 
 ## Technology Used
 
